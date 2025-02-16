@@ -2,6 +2,10 @@
 
 Bet Soccer é um projeto desenvolvido em Laravel com Livewire que consome a API [Football Data](https://www.football-data.org/) para exibir informações sobre campeonatos, times e histórico de partidas.
 
+<img src="./home.png" alt="Tela inicial do projeto Bet Soccer">
+
+<img src="./jogos.png" alt="Tela inicial do projeto Bet Soccer">
+
 ## Funcionalidades
 
 - Listagem de todas as competições disponíveis na API.
@@ -9,6 +13,7 @@ Bet Soccer é um projeto desenvolvido em Laravel com Livewire que consome a API 
 - Busca por um time dentro da competição escolhida.
 - Exibição do histórico de jogos passados e futuros do time escolhido.
 
+<img src="./time.png" alt="Tela inicial do projeto Bet Soccer">
 
 ## Instalação
 
